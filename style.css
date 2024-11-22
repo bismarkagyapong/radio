@@ -1,0 +1,94 @@
+/* General Reset */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: Arial, sans-serif;
+}
+
+/* Body Styling */
+body {
+    background-color: #f5f5f5;
+    color: #333;
+    line-height: 1.6;
+}
+
+/* Header */
+header {
+    text-align: center;
+    padding: 20px;
+    background-color: #0A3D62;
+    color: white;
+}
+
+header h1 {
+    font-size: 2rem;
+    margin-bottom: 10px;
+}
+
+header p {
+    font-size: 1.2rem;
+}
+
+/* Main Content */
+main {
+    padding: 20px;
+    text-align: center;
+}
+
+figure {
+    margin: 20px auto;
+    text-align: center;
+}
+
+figcaption {
+    font-size: 1rem;
+    margin-bottom: 10px;
+}
+
+/* Image Styling */
+.image-container img {
+    margin: 20px auto;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+}
+
+/* Links */
+.live-link p {
+    font-size: 1rem;
+    margin: 20px 0;
+}
+
+.live-link a {
+    color: #0A3D62;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+.live-link a:hover {
+    text-decoration: underline;
+}
+
+/* About Section */
+.about {
+    text-align: left;
+    margin: 20px auto;
+    padding: 10px;
+    max-width: 800px;
+    background: #ffffff;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    border-radius: 10px;
+}
+
+.about p {
+    margin: 10px 0;
+}
+
+/* Footer */
+footer {
+    text-align: center;
+    padding: 10px;
+    background-color: #2E2E2E;
+    color: white;
+    margin-top: 20px;
+}
