@@ -25,7 +25,7 @@ No matter where you are, Bismark Agyapong Radio brings you closer to God.
 
 Stream Bismark Agyapong Radio anytime, anywhere by clicking the link below:  
 
-[**🎧 Listen Now**](https://bismarkagyapong.com/p/radio.html)  
+[**🎧 Listen Now**](https://bismarkagyapong.github.io/radio)  
 
 ---
 
